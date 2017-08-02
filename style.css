@@ -28,3 +28,13 @@ img {
 div:nth-of-type(4) {
   background-color:green;
 }
+
+a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
